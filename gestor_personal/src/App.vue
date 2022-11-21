@@ -10,15 +10,7 @@
           transition="scale-transition"
           width="40"
         />
-
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
-        />
+        <h1>Gestor Personal</h1>
       </div>
 
       <v-spacer></v-spacer>
@@ -48,3 +40,6 @@ export default {
   })
 }
 </script>
+
+<style scoped>
+</style>
